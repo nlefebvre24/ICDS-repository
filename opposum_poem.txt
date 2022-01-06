@@ -5,6 +5,9 @@ opposum kiss
 opposum stay
 opposum play
 
+opposum see
+opposum bee
+
 Bee Movie Script
   
   
