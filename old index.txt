@@ -1,6 +1,0 @@
-<html>
- <body>
-   <h1>bees</h1> 
-the bee movie is a great movie
-  </body>
-</html>
